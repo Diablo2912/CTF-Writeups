@@ -10,7 +10,7 @@ There is a place I wanna visit for inspiration to continue!
 ## Solution
 
 - The .txt file only has the words "Sword" and "Shield" suggesting a binary realtion
-- Created [music.py](https://github.com/Diablo2912/CTF-Writeups/blob/main/NYP%20InfoSec%20June%20CTF%202025/.files/music.py) to convert Sword = "0" and Shield to "1". The script will also convert the binary into text format
+- Created [music.py](https://github.com/Diablo2912/CTF-Writeups/blob/main/NYP%20InfoSec%20June%20CTF%202025/.files/sword-n-shield.py) to convert Sword = "0" and Shield to "1". The script will also convert the binary into text format
 - Run the script and flag can be derived
 
 
