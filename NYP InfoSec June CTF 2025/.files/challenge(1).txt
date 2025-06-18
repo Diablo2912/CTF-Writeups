@@ -1,0 +1,5 @@
+There is a place I wanna visit for inspiration to continue!
+
+Ciphertext: SILAMI DOLAFAMI REMIDOLAFA
+
+Delimiter '_' should be used to separate all words. Remember to answer in flag format! NYP{}
