@@ -32,4 +32,4 @@ Noise is just a signal you haven't decoded yet.
 
 
 ### FLAG
-  NYP{ZIP_INSIDE_THE_PIXPEL}
+    NYP{ZIP_INSIDE_THE_PIXPEL}
