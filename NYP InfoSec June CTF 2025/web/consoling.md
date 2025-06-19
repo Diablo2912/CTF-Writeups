@@ -15,7 +15,7 @@ What is the definition of consoling? | Hmm…. | To console?
 - It also hints that encryption is involved 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/f1052243-88e2-4d5e-bbfe-0fcb2b91bb8a" />
 
-- "listfunctions()" also gives us different commands 
+    listfunctions()
 <img width="482" alt="image" src="https://github.com/user-attachments/assets/b839eb6a-efd4-4144-ba88-00649a75fab8" />
 
 - Using the commands, we can find the encrypted string and the key 
