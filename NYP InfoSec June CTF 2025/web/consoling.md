@@ -12,7 +12,7 @@ What is the definition of consoling? | Hmm…. | To console?
 
 - Based on the clue, we realise that we need to inspect the website 
 - Source Code as shown hints at the function we have to use, and the flag could be hidden in "script.js" or "trash.js"
-- Source code also hints that encryption is involved 
+- It also hints that encryption is involved 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/f1052243-88e2-4d5e-bbfe-0fcb2b91bb8a" />
 
 - "listfunctions()" also gives us different commands 
