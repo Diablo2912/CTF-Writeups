@@ -4,6 +4,7 @@ Category: Forensics
 
 ## Description
 shart
+
 [Download shart](https://github.com/Diablo2912/CTF-Writeups/blob/main/NYP%20InfoSec%20June%20CTF%202025/.files/shart-bear.png)
 
 
