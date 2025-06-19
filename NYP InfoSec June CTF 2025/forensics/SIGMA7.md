@@ -28,8 +28,7 @@ Noise is just a signal you haven't decoded yet.
 - We know the flag is NYP{}, and we compare QBS against NYP. It is a shift of 3 positions backwards
 - Decode the ciphertext, and we can get our flag
   
-<img width="812" alt="image" src="https://github.com/user-attachments/assets/9f659fd5-2b69-4fc9-a16c-f1a4b4846c08" />
-
+<img width="812" alt="image" src="https://github.com/user-attachments/assets/d6a510e8-8218-4e2f-a6d0-7dd04141b14e" />
 
 
 ### FLAG
