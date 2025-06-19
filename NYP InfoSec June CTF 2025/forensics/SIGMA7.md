@@ -24,11 +24,12 @@ Noise is just a signal you haven't decoded yet.
 <img width="551" alt="image" src="https://github.com/user-attachments/assets/90e2c845-22f4-4828-81b4-42663a8949aa" />
 
 [Download .txt file](https://github.com/Diablo2912/CTF-Writeups/blob/main/NYP%20InfoSec%20June%20CTF%202025/.files/01000110%2001101100%2001100001%2001100111%2000001010.txt)
-- .txt file contains HTML entity encoding that represents ASCII values "QBS{CLS_LQVLGH_WKH_SLASHO}"
+- .txt file contains HTML entity encoding that represents ASCII values "QBS{CLS_LQVLGH_WKH_SLAHO}"
 - We know the flag is NYP{}, and we compare QBS against NYP. It is a shift of 3 positions backwards
 - Decode the ciphertext, and we can get our flag
   
-- <img width="806" alt="image" src="https://github.com/user-attachments/assets/6c0957b4-c402-4901-982e-475f9a352200" />
+<img width="812" alt="image" src="https://github.com/user-attachments/assets/9f659fd5-2b69-4fc9-a16c-f1a4b4846c08" />
+
 
 
 ### FLAG
