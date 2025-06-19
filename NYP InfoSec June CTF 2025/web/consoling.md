@@ -22,10 +22,12 @@ What is the definition of consoling? | Hmm…. | To console?
 <img width="578" alt="image" src="https://github.com/user-attachments/assets/56ce7385-67a4-4233-99d4-f7181594aa13" />
 
 - Input AES Decryption script to reveal flag
+```bash
     var encrypted = "U2FsdGVkX1/+BlAURUP5Pk6eQ6vCjySgoCCE/ZJyDESLlrlqfy5ibbzAVg+pdjPH";
     var passkey = "98D2B27"; // your passkey
     var decrypted = CryptoJS.AES.decrypt(encrypted, passkey).toString(CryptoJS.enc.Utf8);
     console.log(decrypted);
+```
 
 
 ### Flag
