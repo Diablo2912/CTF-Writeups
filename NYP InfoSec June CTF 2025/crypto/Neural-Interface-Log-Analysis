@@ -1,1 +1,22 @@
+# Neural Interface Log Analysis
 
+Category: crypto
+
+## Challenge Difficulty
+
+easy
+
+## Challenge Description
+The Nova Sentinel's neural interface system logs have been tampered with during an alien cyberattack. Hidden within the standard operational logs are covert commands inserted by the attackers. As a neural interface specialist, you must analyze these logs, extract the attacker’s messages, and decode their hidden commands to uncover their intentions and the stolen flag.
+
+[Download interface_specs.txt](https://github.com/Diablo2912/CTF-Writeups/blob/main/NYP%20InfoSec%20June%20CTF%202025/.files/interface_specs.txt)
+[Download neural_logs.txt](https://github.com/Diablo2912/CTF-Writeups/blob/main/NYP%20InfoSec%20June%20CTF%202025/.files/neural_logs.txt)
+
+## Solution
+
+- From analysis of the neural_logs.txt file, we can see that the attacker's messages are encoded with XOR encryption using a secret key and Base64
+- We then extract the attacker's messages, and we can also see that the encryption key is given, as well as the Base64-encrypted string 
+
+
+### Flag
+    NYP{}
