@@ -31,7 +31,7 @@ The Nova Sentinel's neural interface system logs have been tampered with during 
 - Base64 decode this to get the XOR-encrypted bytes using a [python script](https://github.com/Diablo2912/CTF-Writeups/blob/main/NYP%20InfoSec%20June%20CTF%202025/.files/log.py)
 - Run the script, and we get our flag
 
-![image](https://github.com/user-attachments/assets/4cd6d9af-b184-4ef7-8ecf-c2008eac5b7d)
+<img width="252" alt="image" src="https://github.com/user-attachments/assets/d1c28f5f-b6bb-4c19-a18d-e62de5c1bea5" />
 
 
 ### Flag
