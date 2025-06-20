@@ -32,7 +32,7 @@ What is the definition of consoling? | Hmm…. | To console?
 
 
 ### Flag
-  NYP{PC_0r_c0ns0le}
+      NYP{PC_0r_c0ns0le}
 
 
 
