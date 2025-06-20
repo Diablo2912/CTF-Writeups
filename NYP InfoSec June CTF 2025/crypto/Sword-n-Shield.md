@@ -2,6 +2,9 @@
 
 Category: Crypto
 
+## Challenge Difficulty
+very easy
+
 ## Challenge Description
 swords are cools!
 
