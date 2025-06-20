@@ -1,0 +1,22 @@
+# NOVA SENTINEL NEURAL INTERFACE - LOGGING SPECIFICATIONS V2.1
+
+Standard Log Format:
+[TIMESTAMP: YYYY-MM-DDTHH:MM:SSZ] [LOG_LEVEL] Message Text
+
+Log Levels: INFO, DEBUG, WARN, ERROR, SYSTEM_ALERT
+
+Security Note:
+Unauthorized messages have been detected in the log stream. These messages appear to bypass standard formatting and are prefixed with [ATTACKER_MSG].
+
+Analysis indicates these messages are encoded using a two-step process:
+
+1. The original message is XORed with a secret key.
+2. The result of the XOR operation is then encoded using Base64.
+
+The secret key used for the XOR operation is suspected to be related to recent system alerts.
+
+## Your Task
+
+1. Identify the attacker’s messages in the logs
+5. Decode the encrypted flag done on TIMESTAMP: 3120-05-20T14:31:00Z
+6. Recover the hidden flag in the format: `NYP{...}`.
