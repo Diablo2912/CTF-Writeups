@@ -46,7 +46,7 @@ means the rule applies to all web crawlers. "*" is a wildcard symbol that repres
 This tells the bots not to access any URLs that start with /flag.html/.
 
 - robot.txt hints that the flag is in flag.html
-- flag.html hints "Maybe you can write a ~robot~ to find the flag for you"
+- flag.html hints "Maybe you can write a robot to find the flag for you"
 - The file just contains a long string, and we can therefore write a [script](https://github.com/Diablo2912/CTF-Writeups/blob/main/NYP%20InfoSec%20June%20CTF%202025/.files/flag.py) that searches for "NYP"
 - This script might not be the best
 - At the end of the output, it shows the flag
