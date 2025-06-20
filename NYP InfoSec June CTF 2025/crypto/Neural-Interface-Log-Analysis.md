@@ -7,9 +7,10 @@ Category: crypto
 easy
 
 ## Challenge Description
-The Nova Sentinel's neural interface system logs have been tampered with during an alien cyberattack. Hidden within the standard operational logs are covert commands inserted by the attackers. As a neural interface specialist, you must analyze these logs, extract the attacker’s messages, and decode their hidden commands to uncover their intentions and the stolen flag.
+The Nova Sentinel's neural interface system logs have been tampered with during an alien cyberattack. Hidden within the standard operational logs are covert commands inserted by the attackers. As a neural interface specialist, you must analyse these logs, extract the attacker’s messages, and decode their hidden commands to uncover their intentions and the stolen flag.
 
 [Download interface_specs.txt](https://github.com/Diablo2912/CTF-Writeups/blob/main/NYP%20InfoSec%20June%20CTF%202025/.files/interface_specs.txt)
+
 [Download neural_logs.txt](https://github.com/Diablo2912/CTF-Writeups/blob/main/NYP%20InfoSec%20June%20CTF%202025/.files/neural_logs.txt)
 
 ## Solution
