@@ -41,6 +41,7 @@ This disables the login form. Even if you try to submit the form, it will just a
 - Stores the secret token into localStorage as accessToken.
 - Redirects the browser to admin_panel.html?access=granted.
 
+- **This is a client-side authentication bypass.**
 - We then go into console and run the script to access admin panel:
   
       localStorage.setItem('accessToken', 'ALIEN_ACCESS_GRANTED_42');
