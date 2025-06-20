@@ -1,0 +1,193 @@
+{
+   "checksum": ,
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13393158470313937",
+            "date_last_used": "0",
+            "guid": "c1379d22-35c6-40b6-8778-fdf07b63acab",
+            "id": "2",
+            "name": "Official HP® Support",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://support.hp.com/sg-en",
+            "visit_count": 1
+         }, {
+            "date_added": "13393158012790426",
+            "date_last_used": "0",
+            "guid": "7713fc16-be91-49ec-8053-c7ac900d12d4",
+            "id": "3",
+            "name": "Support | Dell Singapore",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://www.dell.com/support/home/en-sg",
+            "visit_count": 1
+         }, {
+            "date_added": "13357391412262975",
+            "date_last_used": "13393158656236165",
+            "guid": "6887bd04-86d7-4e4f-ad02-16dce1149c44",
+            "id": "4",
+            "name": "Lenovo Support",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://support.lenovo.com/",
+            "visit_count": 1
+         }, {
+            "date_added": "13392613330932843",
+            "date_last_used": "0",
+            "guid": "c1be1b50-83d3-44b5-9fac-aab8a4608108",
+            "id": "5",
+            "name": "SkillsFuture | Making it a Little Easier for You",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://www.myskillsfuture.gov.sg/upskill/?cid=zemanta:display:fy24-mcw-Phase2:Native-Financial:career-progression:rf&dclid=CNe20vrHvY0DFa7XPAIdnkcDEQ&gad_source=7#financial-support",
+            "visit_count": 1
+         }, {
+            "date_added": "13393152633858748",
+            "date_last_used": "13393158991868797",
+            "guid": "65423eed-9688-4e4b-8183-f26f6df66c32",
+            "id": "6",
+            "name": "How to talk to extraterrestrials — Harvard Gazette",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://news.harvard.edu/gazette/story/2022/03/how-to-talk-to-extraterrestrials/",
+            "visit_count": 4
+         }, {
+            "date_added": "13393152810631963",
+            "date_last_used": "0",
+            "guid": "02bfaa0d-6e35-4444-ae0f-d2051c4a166b",
+            "id": "7",
+            "name": "IV Nutrition Therapy Houston, Miami & New Jersey",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://nationalheadacheinstitute.com/treatment/iv-nutrition-therapy/",
+            "visit_count": 1
+         }, {
+            "date_added": "13393159211946703",
+            "date_last_used": "0",
+            "guid": "e3517c3e-5120-4370-b367-4cec83eb3709",
+            "id": "8",
+            "name": "Seahorse - Wikipedia",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Seahorse",
+            "visit_count": 1
+         }, {
+            "date_added": "13393157295153608",
+            "date_last_used": "13393157409059703",
+            "guid": "6960402e-7cc1-4dec-b508-0ab9cd878223",
+            "id": "9",
+            "name": "Single Flashes of Light in Night Sky – Backyardastronomy.net",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://www.backyardastronomy.net/2017/02/04/single-flashes-of-light-in-night-sky/",
+            "visit_count": 2
+         }, {
+            "date_added": "13393157328505593",
+            "date_last_used": "13393159082209040",
+            "guid": "829c9f29-91b9-4d14-a9b3-8ac0c6f31000",
+            "id": "10",
+            "name": "Photopsia: Is It Dangerous? (How to Treat It) – NVISION",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://www.nvisioncenters.com/neurological-disorders/photopsia/",
+            "visit_count": 3
+         }, {
+            "date_added": "13393159223999121",
+            "date_last_used": "0",
+            "guid": "44c20f6d-2f46-4fa5-801c-7bd34eb34c81",
+            "id": "11",
+            "name": "Do Aliens Exist? We Asked a NASA Scientist: Episode 5 - NASA",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://www.nasa.gov/solar-system/planets/mars/do-aliens-exist-we-asked-a-nasa-scientist-episode-5/",
+            "visit_count": 1
+         }, {
+            "date_added": "13393157488327953",
+            "date_last_used": "0",
+            "guid": "f571d2db-ce3f-450a-aede-a295663d43e0",
+            "id": "12",
+            "name": "Detecting the Earth-Ionosphere Cavity Resonance – Backyardastronomy.net",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://www.backyardastronomy.net/detecting-the-earth-ionosphere-cavity-resonance/",
+            "visit_count": 1
+         }, {
+            "date_added": "13393157378015537",
+            "date_last_used": "0",
+            "guid": "450add11-bf25-4e68-a845-28a68434552b",
+            "id": "13",
+            "name": "The Rah Band - Messages From The Stars Lyrics | AZLyrics.com",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://www.azlyrics.com/lyrics/rahband/messagesfromthestars.html",
+            "visit_count": 1
+         }, {
+            "date_added": "13393157419435718",
+            "date_last_used": "13393159075341490",
+            "guid": "47f3a607-6e89-4639-a7cf-39fc10a5beb2",
+            "id": "14",
+            "name": "Transient Luminous Events – Backyardastronomy.net",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://www.backyardastronomy.net/transient-luminous-events/",
+            "visit_count": 6
+         }, {
+            "date_added": "13393158725255601",
+            "date_last_used": "0",
+            "guid": "36d0be7c-9e87-4dc4-911c-837b726ac8e6",
+            "id": "15",
+            "name": "How to Impress Someone: 14 Easy & Foolproof Ways",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://www.wikihow.com/Impress-Someone",
+            "visit_count": 1
+         } ],
+         "date_added": "13357391412231918",
+         "date_last_used": "0",
+         "date_modified": "13393691198554359",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favourites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13357391412231923",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "16",
+         "name": "Other favourites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13357391412231940",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "17",
+         "name": "Mobile favourites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
