@@ -23,7 +23,9 @@ Flag format: NYP{location_they_are_at} (lowercase separated by underscore)
 ![image](https://github.com/user-attachments/assets/9c241196-0cb8-4b23-bd94-74e53426d122)
 
 - We can also see the Japanese name of the location, which is **朝日陶庵**. From a quick search in Google Maps, we can find the location
-  
+
+![image](https://github.com/user-attachments/assets/1d1a2a89-dcdd-459a-bb15-7eb301ed32c2)
+ 
 ![image](https://github.com/user-attachments/assets/97b6cc1a-3fc6-4673-bd88-81dbf124b1c7)
 
 - From the Google Maps image and the metadata location, we can see that the outline and surroundings of the shop are similar
