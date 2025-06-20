@@ -2,7 +2,11 @@
 
 Category: Forensics
 
-## Description
+## Challenge Difficulty
+
+very easy
+
+## Challenge Description
 One file. No metadata. Something's off.
 
 Noise is just a signal you haven't decoded yet.
