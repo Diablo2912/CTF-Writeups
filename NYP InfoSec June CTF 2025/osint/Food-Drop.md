@@ -2,6 +2,10 @@
 
 Category: OSINT
 
+## Challenge Difficulty
+
+medium
+
 ## Challenge Description
 You have received a picture of a dead drop from 2011, find the location of the nearest train station. Flag format is NYP{English_Train_Station_Name}
 
