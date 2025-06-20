@@ -2,6 +2,10 @@
 
 Category: web
 
+## Challenge Difficulty
+
+very easy
+
 ## Challenge Description
 The alien attackers have compromised the Nova Sentinel's main control panel web interface. As a cybersecurity specialist, you need to find vulnerabilities in the control panel and gain administrative access to restore control of the ship's systems. You've managed to access a backup copy of the control panel's login page. Your task is to bypass the authentication and gain access to the admin panel where you can restore the ship's defense systems.
 
