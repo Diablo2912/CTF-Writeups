@@ -1,13 +1,13 @@
 # Consoling
 Category: web
 
-## Challenge Description
-What is the definition of consoling? | Hmm…. | To console?
-<img width="948" alt="image" src="https://github.com/user-attachments/assets/453c28b8-6268-4341-b814-9888e3397120" />
-
 ## Challenge Difficulty
 
 very easy
+
+## Challenge Description
+What is the definition of consoling? | Hmm…. | To console?
+<img width="948" alt="image" src="https://github.com/user-attachments/assets/453c28b8-6268-4341-b814-9888e3397120" />
 
 ## Solution
 - Website has 3 buttons, only "PAGE WITH THE REAL FLAG" leads us to the right website, the other 2 are misleading
