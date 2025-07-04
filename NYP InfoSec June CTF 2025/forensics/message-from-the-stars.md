@@ -23,7 +23,7 @@ Flag format is the manufacturer of the computer and the last time he went to his
   
 ![image](https://github.com/user-attachments/assets/8bdffa4d-1cf7-4e88-b61a-d177db03e1cf)
 
-- After conversion, we know the time is **31/05/2025/17:57:55**; however, the flag uses 12 12-hour clock, so it becomes **31/05/2025/5:57:55PM**
+- After conversion, we know the time is **31/05/2025/17:57:55**; however, the flag uses 12-hour clock, so it becomes **31/05/2025/5:57:55PM**
 - The file also shows that he visited 3 laptop support websites. We can therefore understand that his laptop has to be one of the manufacturers and we can guess it
 
 ![image](https://github.com/user-attachments/assets/3726a07d-9902-4f9b-b341-0ef374248f27)
